@@ -1,2 +1,2 @@
-# workout-tracker
-an application that tracks daily workouts
+# Workout Tracer
+An application that tracks daily workouts
